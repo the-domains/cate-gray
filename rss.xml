@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Cate Gray]]></title>
         <description><![CDATA[Cate Gray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cate-gray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 12:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 13:48:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cate-gray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What does circadian rhythm mean? </p>]]></description>
+            <link>https://thegrid.ai/cate-gray/what-does-circadian-rhythm-mean/index.html</link>
+            <guid isPermaLink="false">7cebb908-ad6a-4ac6-a878-4a4d5dc58b0d</guid>
+            <pubDate>Wed, 18 May 2016 13:48:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is cancer a circadian rhythm disorder?]]></title>
             <description><![CDATA[<img src="https://images.unsplash.com/photo-1440635592348-167b1b30296f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=370477211fd6605e597e0d1e9534d99e">]]></description>
