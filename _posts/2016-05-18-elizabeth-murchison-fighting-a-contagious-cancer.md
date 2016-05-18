@@ -15,9 +15,9 @@ keywords:
   - russell
   - local
   - prize
-description: ''
-datePublished: '2016-05-18T14:12:02.711Z'
-dateModified: '2016-05-18T14:10:52.459Z'
+description: I contacted Elizabeth Murchison to ask her what she thought about whether cancer is primarily a circadian rhythm disorder.
+datePublished: '2016-05-18T14:18:21.813Z'
+dateModified: '2016-05-18T14:18:00.997Z'
 author:
   - name: Elizabeth Murchison
     url: 'https://www.ted.com/speakers/elizabeth_murchison'
@@ -62,4 +62,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+I contacted Elizabeth Murchison to ask her what she thought about whether cancer is primarily a circadian rhythm disorder.
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fembed-ssl.ted.com%2Ftalks%2Felizabeth_murchison.html&amp;url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Felizabeth_murchison&amp;image=http%3A%2F%2Fpe.tedcdn.com%2Fimages%2Fted%2F5d63c106befe8b4c09b275c680cb8721e8569438_240x180.jpg%3Flang%3Den&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=ted" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
