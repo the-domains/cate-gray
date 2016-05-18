@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Elizabeth Murchison
-    url: 'https://www.ted.com/speakers/elizabeth_murchison'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://ted.com'
-  name: TED
-  favicon: 'https://pa.tedcdn.com/favicon.ico'
-  domain: www.ted.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.ted.com/talks/elizabeth_murchison#'
+inLanguage: en
 keywords:
   - ted
   - world-changing
@@ -21,7 +16,13 @@ keywords:
   - local
   - prize
 description: ''
-inLanguage: en
+datePublished: '2016-05-18T14:12:02.711Z'
+dateModified: '2016-05-18T14:10:52.459Z'
+author:
+  - name: Elizabeth Murchison
+    url: 'https://www.ted.com/speakers/elizabeth_murchison'
+    avatar: {}
+related: []
 app_links:
   - url: 'ted://x-callback-url/talk?talkID=1229&source=facebook'
     type: ios
@@ -48,15 +49,15 @@ app_links:
     type: googleplay
     id: com.ted.android
     name: TED
-isBasedOnUrl: 'https://www.ted.com/talks/elizabeth_murchison#'
 title: ''
-datePublished: '2016-05-18T14:10:43.225Z'
-dateModified: '2016-05-18T14:08:17.732Z'
-starred: false
 sourcePath: _posts/2016-05-18-elizabeth-murchison-fighting-a-contagious-cancer.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: TED
+  domain: www.ted.com
+  url: 'http://ted.com'
+  favicon: 'https://pa.tedcdn.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
