@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cate Gray]]></title>
+        <description><![CDATA[Cate Gray]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 12:48:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is cancer a circadian rhythm disorder?]]></title>
+            <description><![CDATA[<img src="https://images.unsplash.com/photo-1440635592348-167b1b30296f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=370477211fd6605e597e0d1e9534d99e">]]></description>
+            <link>https://images.unsplash.com/photo-1440635592348-167b1b30296f?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;s=370477211fd6605e597e0d1e9534d99e</link>
+            <guid isPermaLink="false">b360bcc9-edd2-4a92-8df4-b4d110726f80</guid>
+            <pubDate>Wed, 18 May 2016 12:48:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
