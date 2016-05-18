@@ -1,0 +1,64 @@
+---
+author:
+  - name: Elizabeth Murchison
+    url: 'https://www.ted.com/speakers/elizabeth_murchison'
+    avatar: {}
+related: []
+publisher:
+  url: 'http://ted.com'
+  name: TED
+  favicon: 'https://pa.tedcdn.com/favicon.ico'
+  domain: www.ted.com
+keywords:
+  - ted
+  - world-changing
+  - cancer
+  - regenerative
+  - event
+  - alan
+  - tasmanian
+  - russell
+  - local
+  - prize
+description: ''
+inLanguage: en
+app_links:
+  - url: 'ted://x-callback-url/talk?talkID=1229&source=facebook'
+    type: ios
+    namespace: ai
+    app_name: TED
+    app_store_id: '376183339'
+  - url: 'http://applinks.org/documentation'
+    type: web
+    namespace: ai
+    app_name: TED
+    package: com.ted.android
+  - url: 'ted://x-callback-url/talk?talkID=1229&source=twitter'
+    namespace: twitter
+    type: ipad
+    id: '376183339'
+    name: TED
+  - url: 'ted://x-callback-url/talk?talkID=1229&source=twitter'
+    namespace: twitter
+    type: iphone
+    id: '376183339'
+    name: TED
+  - url: 'https://www.ted.com/talks/elizabeth_murchison'
+    namespace: twitter
+    type: googleplay
+    id: com.ted.android
+    name: TED
+isBasedOnUrl: 'https://www.ted.com/talks/elizabeth_murchison#'
+title: ''
+datePublished: '2016-05-18T14:10:43.225Z'
+dateModified: '2016-05-18T14:08:17.732Z'
+starred: false
+sourcePath: _posts/2016-05-18-elizabeth-murchison-fighting-a-contagious-cancer.md
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fembed-ssl.ted.com%2Ftalks%2Felizabeth_murchison.html&amp;url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Felizabeth_murchison&amp;image=http%3A%2F%2Fpe.tedcdn.com%2Fimages%2Fted%2F5d63c106befe8b4c09b275c680cb8721e8569438_240x180.jpg%3Flang%3Den&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=ted" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
