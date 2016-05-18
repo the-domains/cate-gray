@@ -1,0 +1,28 @@
+name: Cate Gray
+favicon: null
+layout_spectrum: 0.12320614908821881
+typography_spectrum: 0.32270428305491805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18635789607651532
+  lightness: 0.0800872421823442
+  saturation: 0.8598663040902466
+  rhythmicContrast: 0.3569805230945349
+purpose: []
